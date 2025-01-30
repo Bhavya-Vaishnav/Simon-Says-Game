@@ -1,4 +1,4 @@
-#Simon # Simon Says Game
+# Simon Says Game
 
 ## Overview
 The **Simon Says** game is a memory-based challenge where players must repeat an increasing sequence of colors. This game is built using **JavaScript, HTML, and CSS**.
